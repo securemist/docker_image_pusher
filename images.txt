@@ -9,3 +9,4 @@ rabbitmq:3.8
 nacos:latest
 kafka:latest
 mtphotos/mt-photos-ai:latest
+apacherocketmq/rocketmq-dashboard:latest
