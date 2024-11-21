@@ -2,10 +2,10 @@ nginx:latest
 redis:latest
 mysql:8.0.36
 canal/canal-server:v1.1.7
+
 elasticsearch:8.13.0
 kibana:8.13.0
 nacos/nacos-server:latest
-mtphotos/mt-photos-ai:latest
 
 # 消息队列
 apacherocketmq/rocketmq-dashboard:latest
@@ -13,3 +13,11 @@ apache/rocketmq:5.3.1
 zookeeper:latest
 rabbitmq:3.8
 
+# 便携开发版rocketmq
+xuchengen/rocketmq
+
+
+# 个人应用
+mtphotos/mt-photos-ai:latest
+cloudreve/cloudreve
+xhofe/alist
