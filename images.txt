@@ -5,7 +5,8 @@ canal/canal-server:v1.1.7
 elasticsearch:8.13.0
 kibana:8.13.0
 rabbitmq:3.8
-nacos:latest
-kafka:latest
+nacos/nacos-server:latest
 mtphotos/mt-photos-ai:latest
 apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:5.3.1
+
